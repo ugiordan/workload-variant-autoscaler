@@ -18,7 +18,7 @@ require (
 )
 
 require (
-	github.com/Masterminds/semver/v3 v3.4.0 // indirect
+	github.com/Masterminds/semver/v3 v3.5.0 // indirect
 	github.com/cenkalti/backoff/v5 v5.0.3 // indirect
 	github.com/expr-lang/expr v1.17.6 // indirect
 	github.com/go-viper/mapstructure/v2 v2.4.0 // indirect
